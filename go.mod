@@ -1,3 +1,3 @@
-module github.com/trustmaster/goflow
+module github.com/unbxd/goflow
 
 go 1.13
